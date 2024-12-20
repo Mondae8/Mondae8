@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daemon! IT Specialist, Cloud Security Specialist, Cybersecurity Professional and Network Engineer
+<h1>Hi, I'm Daemon! IT Cloud Specialist, Cloud Security Specialist, Cybersecurity Professional and Network Engineer
  
 <h2>👨‍💻 Certificates and Certifications:</h2>
  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
